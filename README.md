@@ -1,6 +1,9 @@
 Wireless TWAIN Document Scan on Android
 ====================================
 The sample shows how to create a mobile solution for wireless TWAIN document scanning.
+
+Screenshot
+-----------
 ![image](http://www.codepool.biz/wp-content/uploads/2014/09/twain_android_client-168x300.png)
 
 Blog
